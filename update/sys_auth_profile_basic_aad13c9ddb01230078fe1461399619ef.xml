@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_auth_profile_basic">
+    <sys_auth_profile_basic action="INSERT_OR_UPDATE">
+        <name>Intrino User</name>
+        <password>M32XtesMUcpWCjoB87yKJdzskP/wgIEuL0OEUzq7/bt7MaSa+EyjGA==</password>
+        <sys_class_name>sys_auth_profile_basic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-08 12:29:34</sys_created_on>
+        <sys_id>aad13c9ddb01230078fe1461399619ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Intrino User</sys_name>
+        <sys_package display_value="StockInfo" source="x_278491_stockinfo">62ecec99db01230078fe146139961945</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StockInfo">62ecec99db01230078fe146139961945</sys_scope>
+        <sys_update_name>sys_auth_profile_basic_aad13c9ddb01230078fe1461399619ef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-08 12:29:34</sys_updated_on>
+        <username>346b2897ce3998f6d86fbbe7fa122ab0</username>
+    </sys_auth_profile_basic>
+</record_update>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="StockInfo" max_length="40" name="x_278491_stockinfo_stockinfo" type="collection">
+        <element default="AMAT" label="Company Identifier" max_length="40" name="company" type="string"/>
+        <element default="2005-01-01" label="Date" max_length="40" name="date" type="glide_date"/>
+        <element label="High" max_length="20" name="high" type="decimal"/>
+        <element label="Low" max_length="20" name="low" type="decimal"/>
+    </element>
+</database>
