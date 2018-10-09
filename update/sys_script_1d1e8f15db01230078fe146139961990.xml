@@ -42,7 +42,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>1d1e8f15db01230078fe146139961990</sys_id>
-        <sys_mod_count>13</sys_mod_count>
+        <sys_mod_count>15</sys_mod_count>
         <sys_name>inputStockInfo</sys_name>
         <sys_overrides/>
         <sys_package display_value="StockInfo" source="x_278491_stockinfo">62ecec99db01230078fe146139961945</sys_package>
@@ -50,7 +50,7 @@
         <sys_scope display_value="StockInfo">62ecec99db01230078fe146139961945</sys_scope>
         <sys_update_name>sys_script_1d1e8f15db01230078fe146139961990</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-10-09 02:25:07</sys_updated_on>
+        <sys_updated_on>2018-10-09 21:18:32</sys_updated_on>
         <template/>
         <when>async</when>
     </sys_script>

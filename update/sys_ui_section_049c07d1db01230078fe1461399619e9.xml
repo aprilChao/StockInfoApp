@@ -3,11 +3,11 @@
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-09 02:32:23</sys_created_on>
-            <sys_id>a6d23fd9db41230078fe146139961930</sys_id>
+            <sys_created_on>2018-10-09 21:14:39</sys_created_on>
+            <sys_id>cab37ba1db01230078fe146139961983</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-09 02:32:23</sys_updated_on>
+            <sys_updated_on>2018-10-09 21:14:39</sys_updated_on>
             <text>If the date cannot be found, the next available date will be used.</text>
             <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
         </sys_ui_annotation>
@@ -15,55 +15,41 @@
             <element>company</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-09 02:32:23</sys_created_on>
-            <sys_id>6ad23fd9db41230078fe146139961930</sys_id>
+            <sys_created_on>2018-10-09 21:14:39</sys_created_on>
+            <sys_id>8eb37ba1db01230078fe146139961983</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_278491_stockinfo_stockinfo" sys_domain="global" view="Default view">049c07d1db01230078fe1461399619e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-09 02:32:23</sys_updated_on>
+            <sys_updated_on>2018-10-09 21:14:39</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
+            <element>cab37ba1db01230078fe146139961983</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-09 02:32:23</sys_created_on>
-            <sys_id>ead23fd9db41230078fe146139961930</sys_id>
+            <sys_created_on>2018-10-09 21:14:39</sys_created_on>
+            <sys_id>02b37ba1db01230078fe146139961984</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_278491_stockinfo_stockinfo" sys_domain="global" view="Default view">049c07d1db01230078fe1461399619e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-09 02:32:23</sys_updated_on>
-            <sys_user/>
-            <type>.split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>a6d23fd9db41230078fe146139961930</element>
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-09 02:32:23</sys_created_on>
-            <sys_id>6ed23fd9db41230078fe146139961930</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_278491_stockinfo_stockinfo" sys_domain="global" view="Default view">049c07d1db01230078fe1461399619e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-09 02:32:23</sys_updated_on>
+            <sys_updated_on>2018-10-09 21:14:39</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>date</element>
-            <position>3</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-09 02:32:23</sys_created_on>
-            <sys_id>eed23fd9db41230078fe146139961930</sys_id>
+            <sys_created_on>2018-10-09 21:14:39</sys_created_on>
+            <sys_id>82b37ba1db01230078fe146139961984</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_278491_stockinfo_stockinfo" sys_domain="global" view="Default view">049c07d1db01230078fe1461399619e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-09 02:32:23</sys_updated_on>
+            <sys_updated_on>2018-10-09 21:14:39</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
